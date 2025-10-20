@@ -1,0 +1,5 @@
+{
+  "name": "AniGloK Admin & User Dashboard",
+  "description": "A comprehensive frontend interface designed to interact with the AniGloK backend. It provides user features like watchlist and favorites management, AI-powered recommendations, and issue reporting, alongside a complete admin panel for managing streaming overrides and user reports.",
+  "requestFramePermissions": []
+}
